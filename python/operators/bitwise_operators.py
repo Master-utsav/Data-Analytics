@@ -3,6 +3,9 @@
 a = 5  # 0101 in binary
 b = 3  # 0011 in binary
 
+# binary of a and b
+print(bin(a) , bin(b))
+
 # Bitwise AND
 print("Bitwise AND:", a & b)
 
